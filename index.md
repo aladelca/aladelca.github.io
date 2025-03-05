@@ -1,7 +1,6 @@
 ---
 layout: default
 ---
-![](https://komarev.com/ghpvc/?username=aladelca&color=blue)
 
 # Welcome to Coffee and Data 🚀
 
